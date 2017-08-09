@@ -1,0 +1,2 @@
+# n-ary_tree_isomorphism
+Implementing a n-ary tree. Two trees are said to be isomorphic if they "have the same shape"; that is, if there is a one-to-one correspondence between the nodes of the two trees that preserves the parent-child relationships of all of the nodes.  This program will read in data to be stored in two multiway trees. It will then print out each tree in preorder, and then determine if the trees have the same shape.
